@@ -1,3 +1,4 @@
+//flatten JavaScript array using recursive funcition
 var arr = [10,2,3,[4, [2,5,6]]];
 var tempArray = [];
 function sortArray(arr){
